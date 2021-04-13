@@ -1,0 +1,26 @@
+body{
+   margin: 0;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header{
+    background-color: darkred;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+header h1{
+    color:black;
+    font-size: 50px;
+}
+h1, h2{
+    font-family: 'Cinzel', serif;
+}
+header img{
+    border-radius: 150px;
+    clip-path: circle();
+     
+}
+
+main{
+    max-width: 800px;
+}
